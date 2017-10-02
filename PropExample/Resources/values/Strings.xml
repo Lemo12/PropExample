@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">PropExample</string>
+	<string name="First">Firstname</string>
+	<string name="Last">Lastname</string>
+	<string name="Email">Email</string>
+	<string name="Pass">Password</string>
+	<string name="Login">Login</string>
+    <string name="Create">Create an account</string>
+	<string name="Already">Already a user</string>
+	<string name="ImgName">Image Name</string>
+	<string name="PropID">Property Identity</string>
+	<string name="ChooseImg">Select Image</string>
+	<string name="SendImgDb">Send Image To Database</string>
+	<string name="PropDesc">Property Description</string>
+	<string name="PropType">Property Type</string>
+	<string name="PropStat">Property Status</string>
+	<string name="Adress">Address</string>
+	<string name="City">City</string>
+	<string name="Bed">Bed Room</string>
+	<string name="Bath">Bath Room</string>
+	<string name="garage">Garage</string>
+	<string name="Price">Price</string>
+	<string name="AddImage">Add Image</string>
+	<string name="AddProp">Add Property</string>
+</resources>
